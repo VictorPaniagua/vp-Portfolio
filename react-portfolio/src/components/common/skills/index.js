@@ -2,9 +2,9 @@ import PropTypes from 'prop-types'
 
 const Skills = ({title}) => {
     return (
-        <header>
+        <div class="skills">
             <h1>{title}</h1>
-        </header>
+        </div>
     )
 }
 
