@@ -7,15 +7,11 @@ function Header () {
         <section className="header">
             <section className="header-top">
                 <section className="header-top_logo">
-                    <a href="/" className="header-logo">Logo</a>
+                    <a href="/" className="header-logo"></a>
                 </section>
                 <section className="header-top_navbar">
                     <Navbar/>
                 </section>
-            </section>
-
-            <section className="header-bottom">
-                <section className="header-bottome_email">victor.a.paniagua.a@gmail.com</section>
             </section>
         </section>
     )
