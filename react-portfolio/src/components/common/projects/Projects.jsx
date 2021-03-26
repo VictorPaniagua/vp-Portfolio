@@ -1,18 +1,28 @@
 import React from 'react'
 import './Projects.css'
+import Temp from '../../../assets/temp.jpg';
 
 function Projects() {
     return (
-        <section>
+        <section className="projects-container">
             <section className="projects-title">My Projects</section>
             
-            <section className="projects-projectone">Project 1</section>
+            <a href="#top">
+            <img className="tempImgOne" src={Temp} alt="temp"></img>
+            </a>
 
-            <section className="projects-projecttwo">Project 2</section>
+            <a href="#top">
+            <img className="tempImgTwo" src={Temp} alt="temp"></img>
+            </a>
 
-            <section className="projects-projectthree">Project 3</section>
+            <a href="#top">
+            <img className="tempImgThree" src={Temp} alt="temp"></img>
+            </a>
 
-            <section className="projects-projectfour">Project 4</section>
+            <a href="#top">
+            <img className="tempImgFour" src={Temp} alt="temp"></img>
+            </a>
+
         </section>
     )
 }

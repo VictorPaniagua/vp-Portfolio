@@ -1,0 +1,30 @@
+.projects-container {
+    display: grid;
+
+}
+
+.projects-title {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.tempImgOne {
+    max-width: 100%;
+    height: auto;
+}
+
+.tempImgTwo {
+    max-width: 100%;
+    height: auto;
+}
+
+.tempImgThree {
+    max-width: 100%;
+    height: auto;
+}
+
+.tempImgFour {
+    max-width: 100%;
+    height: auto;
+}

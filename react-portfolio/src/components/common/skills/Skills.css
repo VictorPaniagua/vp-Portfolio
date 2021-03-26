@@ -1,5 +1,16 @@
 .skills-title {
     display: flex;
-    font-size: 38px;
-    align-items: center;
+    font-size: 30px;
+    justify-content: center;
+}
+
+.skills-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.skills-list {
+    display: flex;
+    justify-content: space-evenly;
 }

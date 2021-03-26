@@ -1,14 +1,15 @@
 import React from "react";
 import { Header } from "./components/common"
-import { Greet } from "./components/common"
+import { Home } from "./components/common"
 import { Skills } from "./components/common"
 import { Projects } from "./components/common"
+import "./App.css"
 
 const App = () => {
   return (
     <div className="container">
       <Header />
-      <Greet />
+      <Home />
       <Skills />
       <Projects />
     </div>

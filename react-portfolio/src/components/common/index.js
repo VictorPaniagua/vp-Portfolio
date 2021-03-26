@@ -1,6 +1,6 @@
 import Header from "./header";
 import Navbar from "./navbar";
-import Greet from "./greet";
+import Home from "./home";
 import Skills from "./skills";
 import Projects from "./projects"
 
@@ -8,7 +8,7 @@ import Projects from "./projects"
 export {
     Header,
     Navbar,
-    Greet,
+    Home,
     Skills,
     Projects
 }

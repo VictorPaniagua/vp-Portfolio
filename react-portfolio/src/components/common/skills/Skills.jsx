@@ -6,18 +6,33 @@ function Skills () {
         <section>
             <section className="skills-title">My Skills</section>
 
-                <section className="skills-list">
-                    <li className="skills-list-react">React</li>
-                    <li className="skills-list-node">Node.js</li>
-                    <li className="skills-list-javascript">Javascript</li>
-                    <li className="skills-list-bootstrap">Bootstap</li>
-                    <li className="skills-list-jquery">jQuery</li>
-                    <li className="skills-list-sass">Sass</li>
-                    <li className="skills-list-mongo">MongoDb</li>
-                    <li className="skills-list-github">Github</li>
-                    <li className="skills-list-git">Git</li>
-                    <li className="skills-list-html">Html</li>
-                    <li className="skills-list-css">Css</li>
+                <section className="skills-container">
+
+                    <section className="skills-frontend">
+                        <p>Front-End</p>
+                        <li>React Sass Bootstrap Html Css</li>
+                    </section>
+
+                    <section className="skills-backend">
+                        <p>Back-End</p>
+                        <li>Node.js Javascript jQuery MongoDb</li>
+                    </section>
+
+                    <section className="skills-technology">
+                        <p>Technology</p>
+                        <li>Git Github</li>
+                    </section>
+                    {/* <div className="skills-list-react">React</div>
+                    <div className="skills-list-node">Node.js</div>
+                    <div className="skills-list-javascript">Javascript</div>
+                    <div className="skills-list-bootstrap">Bootstap</div>
+                    <div className="skills-list-jquery">jQuery</div>
+                    <div className="skills-list-sass">Sass</div>
+                    <div className="skills-list-mongo">MongoDb</div>
+                    <div className="skills-list-github">Github</div>
+                    <div className="skills-list-git">Git</div>
+                    <div className="skills-list-html">Html</div>
+                    <div className="skills-list-css">Css</div> */}
                 </section>
         </section>
     )

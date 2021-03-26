@@ -1,0 +1,38 @@
+.navbar-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.home-link {
+    background-color:gray;
+    color: black;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform:uppercase;
+}
+
+
+.skills-link {
+    background-color:gray;
+    color: black;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform:uppercase;
+}
+
+.projects-link {
+    background-color:gray;
+    color: black;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform:uppercase;
+}
+
+.contact-link {
+    background-color:gray;
+    color: black;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform:uppercase;
+}
