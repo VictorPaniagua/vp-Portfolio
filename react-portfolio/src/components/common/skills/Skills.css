@@ -2,6 +2,7 @@
     display: flex;
     font-size: 30px;
     justify-content: center;
+    color: white;
 }
 
 .skills-container {
@@ -13,4 +14,19 @@
 .skills-list {
     display: flex;
     justify-content: space-evenly;
+}
+
+.skills-frontend {
+    font-size: 15;
+    color: white;
+}
+
+.skills-backend {
+    font-size: 15;
+    color: white;
+}
+
+.skills-technology {
+    font-size: 15;
+    color: white;
 }

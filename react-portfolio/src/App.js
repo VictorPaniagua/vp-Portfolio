@@ -3,6 +3,9 @@ import { Header } from "./components/common"
 import { Home } from "./components/common"
 import { Skills } from "./components/common"
 import { Projects } from "./components/common"
+import { Contact } from "./components/common"
+import { Footer } from "./components/common"
+import { Background } from "./components/common"
 import "./App.css"
 
 const App = () => {
@@ -12,6 +15,9 @@ const App = () => {
       <Home />
       <Skills />
       <Projects />
+      <Contact />
+      <Footer />
+      <Background />
     </div>
   );
 }

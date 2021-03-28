@@ -4,9 +4,10 @@ import Temp from '../../../assets/temp.jpg';
 
 function Projects() {
     return (
-        <section className="projects-container">
+        <section className="projects-list">
             <section className="projects-title">My Projects</section>
             
+            <section className="projects-container">
             <a href="#top">
             <img className="tempImgOne" src={Temp} alt="temp"></img>
             </a>
@@ -23,6 +24,7 @@ function Projects() {
             <img className="tempImgFour" src={Temp} alt="temp"></img>
             </a>
 
+            </section>
         </section>
     )
 }
