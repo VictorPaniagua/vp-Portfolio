@@ -5,7 +5,7 @@ function Footer () {
     return (
         <section className="container">
             <section>
-                <p className="testing">Testing 3</p>
+                <p className="testing">Testing Footer</p>
             </section>
         </section>
     )

@@ -17,16 +17,44 @@
 }
 
 .skills-frontend {
+    /* display: flex; */
     font-size: 15;
     color: white;
+    /* justify-content: center; */
+}
+
+.skills-frontend p {
+    font-size: 50px;
+}
+
+.skills-frontend li {
+    font-size: 30px;
 }
 
 .skills-backend {
     font-size: 15;
     color: white;
+    margin: auto;
+}
+
+.skills-backend p{
+    font-size: 50px;
+}
+
+.skills-backend li {
+    font-size: 30px;
 }
 
 .skills-technology {
     font-size: 15;
     color: white;
+    margin: auto;
+}
+
+.skills-technology p {
+    font-size: 50px;
+}
+
+.skills-technology li {
+    font-size: 30px;
 }

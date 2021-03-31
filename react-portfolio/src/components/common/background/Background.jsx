@@ -1,12 +1,13 @@
-import React from "react";
-import "./Background.css";
+// import React from "react";
+// import "./Background.css";
+// import Sunset from '../../../assets/sunset.jpg'
 
-function Background () {
-    return (
-        <section>
-            <p className="Testing3">Testing 3</p>
-        </section>
-    )
-}
+// function Background () {
+//     return (
+//         <section>
+//             <img className="background-image" src={Sunset} alt="sunset"></img>
+//         </section>
+//     )
+// }
 
-export default Background
+// export default Background

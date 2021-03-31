@@ -5,7 +5,7 @@ import { Skills } from "./components/common"
 import { Projects } from "./components/common"
 import { Contact } from "./components/common"
 import { Footer } from "./components/common"
-import { Background } from "./components/common"
+// import { Background } from "./components/common"
 import "./App.css"
 
 const App = () => {
@@ -17,7 +17,7 @@ const App = () => {
       <Projects />
       <Contact />
       <Footer />
-      <Background />
+      {/* <Background /> */}
     </div>
   );
 }

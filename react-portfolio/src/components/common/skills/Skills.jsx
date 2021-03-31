@@ -10,17 +10,25 @@ function Skills () {
 
                     <section className="skills-frontend">
                         <p>Front-End</p>
-                        <li>React Sass Bootstrap Html Css</li>
+                        <li>React</li>
+                        <li>SASS</li>
+                        <li>Bootstrap</li>
+                        <li>HTML</li>
+                        <li>CSS</li>
                     </section>
 
                     <section className="skills-backend">
                         <p>Back-End</p>
-                        <li>Node.js Javascript jQuery MongoDb</li>
+                        <li>Node.js</li>
+                        <li>Javascript</li>
+                        <li>jQuery</li>
+                        <li>MongoDb</li>
                     </section>
 
                     <section className="skills-technology">
                         <p>Technology</p>
-                        <li>Git Github</li>
+                        <li>Git</li>
+                        <li>Github</li>
                     </section>
                     {/* <div className="skills-list-react">React</div>
                     <div className="skills-list-node">Node.js</div>
