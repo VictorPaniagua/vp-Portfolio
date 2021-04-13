@@ -5,8 +5,8 @@
 }
 
 .home-link {
-    /* background-color:gray; */
-    font-size: 30px;
+    background-color:gray;
+    font-size: 20px;
     color: white;
     padding: 1em 1.5em;
     text-decoration: none;
@@ -15,8 +15,8 @@
 
 
 .skills-link {
-    /* background-color:gray; */
-    font-size: 30px;
+    background-color:gray;
+    font-size: 20px;
     color: white;
     padding: 1em 1.5em;
     text-decoration: none;
@@ -24,8 +24,8 @@
 }
 
 .projects-link {
-    /* background-color:gray; */
-    font-size: 30px;
+    background-color:gray;
+    font-size: 20px;
     color: white;
     padding: 1em 1.5em;
     text-decoration: none;
@@ -33,8 +33,8 @@
 }
 
 .contact-link {
-    /* background-color:gray; */
-    font-size: 30px;
+    background-color:gray;
+    font-size: 20px;
     color: white;
     padding: 1em 1.5em;
     text-decoration: none;

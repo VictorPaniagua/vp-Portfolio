@@ -5,7 +5,7 @@ import Skills from "./skills";
 import Projects from "./projects";
 import Contact from "./contact";
 import Footer from "./footer";
-import Background from "./background"
+// import Background from "./background"
 
 
 export {
@@ -16,5 +16,5 @@ export {
     Projects,
     Contact,
     Footer,
-    Background
+    // Background
 }
